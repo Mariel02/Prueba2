@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Buenos Dias
 Miercoles 04 de Octubre
+=======
+Prueba 
+>>>>>>> Mariel

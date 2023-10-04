@@ -3,10 +3,14 @@ Zorro
 No le te lleves
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 1 
 =======
 1 Henry Núñez
 >>>>>>> 5c06a8d3256e48c684713b63e4439c305e769a5a
+=======
+1 Henry Núñez
+>>>>>>> 3bddb4df80c99eaedce30781f170db083b815f6e
 
 2 si se puede
 
@@ -17,12 +21,16 @@ No le te lleves
 5
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 6 
 =======
 6 Pineda
 >>>>>>> 5c06a8d3256e48c684713b63e4439c305e769a5a
+=======
+6 Pineda
+>>>>>>> 3bddb4df80c99eaedce30781f170db083b815f6e
 
-7 Angee  
+7 Vargas 
 
 8
 
