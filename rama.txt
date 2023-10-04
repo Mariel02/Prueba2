@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Nueva Rama
+=======
+Esto es una rama nueva
+>>>>>>> e657ed247764ef8c89e3b134eda086dafabdc047

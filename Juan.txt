@@ -8,7 +8,7 @@ No le te lleves
 
 1 Henry Núñez
 
-2 si se puede
+2 Deysired Ortega
 
 3 otras lineas
 
@@ -16,7 +16,7 @@ No le te lleves
 
 5 Yeimi Delgado
 
-6 Pineda
+6 Juan Pineda
 
 7
 
@@ -28,7 +28,7 @@ No le te lleves
 
 11 Juarez 
 
-12
+12 Rodriguez
 
 13
 >>>>>>> 3bddb4df80c99eaedce30781f170db083b815f6e
