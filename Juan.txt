@@ -1,7 +1,12 @@
 Zorro
 
+<<<<<<< HEAD
+No le te lleves 
+
+=======
 No le te lleves
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 1 
@@ -13,13 +18,19 @@ No le te lleves
 >>>>>>> 3bddb4df80c99eaedce30781f170db083b815f6e
 
 2 si se puede
+=======
+1 Henry Núñez
+
+2 Deysired Ortega
+>>>>>>> 647a8887bff6812c4d0de3601f0b92515264641e
 
 3 otras lineas
 
 4 tambien estas
 
-5
+5 Yeimi Delgado
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 6 
@@ -29,17 +40,21 @@ No le te lleves
 =======
 6 Pineda
 >>>>>>> 3bddb4df80c99eaedce30781f170db083b815f6e
+=======
+6 Juan Pineda
+>>>>>>> 647a8887bff6812c4d0de3601f0b92515264641e
 
-7 Vargas A.
+7 Vargas A 
 
 8
 
-9
+9 Fabio Lozada 
 
 10
 
 11 Juarez 
 
-12
+12 Rodriguez
 
 13
+>>>>>>> 3bddb4df80c99eaedce30781f170db083b815f6e
