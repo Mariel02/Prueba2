@@ -1,27 +1,10 @@
 Zorro
 
-<<<<<<< HEAD
 No le te lleves 
 
-=======
-No le te lleves
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-1 
-=======
 1 Henry Núñez
->>>>>>> 5c06a8d3256e48c684713b63e4439c305e769a5a
-=======
-1 Henry Núñez
->>>>>>> 3bddb4df80c99eaedce30781f170db083b815f6e
 
 2 si se puede
-=======
-1 Henry Núñez
 
 2 Deysired Ortega
 >>>>>>> 647a8887bff6812c4d0de3601f0b92515264641e
@@ -31,10 +14,6 @@ No le te lleves
 4 tambien estas
 
 5 Yeimi Delgado
-=======
-1 Henry Núñez
-=======
-1 Henry Núñez
 
 2 Deysired Ortega
 
@@ -45,7 +24,6 @@ No le te lleves
 5 Yeimi Delgado
 
 6 Juan Pineda
->>>>>>> 647a8887bff6812c4d0de3601f0b92515264641e
 
 2 Deysired Ortega
 
@@ -56,21 +34,6 @@ No le te lleves
 5 Yeimi Delgado
 
 6 Juan Pineda
->>>>>>> 647a8887bff6812c4d0de3601f0b92515264641e
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-6 
-=======
-6 Pineda
->>>>>>> 5c06a8d3256e48c684713b63e4439c305e769a5a
-=======
-6 Pineda
->>>>>>> 3bddb4df80c99eaedce30781f170db083b815f6e
-=======
-6 Juan Pineda
->>>>>>> 647a8887bff6812c4d0de3601f0b92515264641e
 
 7 Vargas A 
 
