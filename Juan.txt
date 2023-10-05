@@ -9,6 +9,7 @@ No le te lleves
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 1 
 =======
 1 Henry Núñez
@@ -29,6 +30,19 @@ No le te lleves
 4 tambien estas
 
 5 Yeimi Delgado
+=======
+1 Henry Núñez
+
+2 Deysired Ortega
+
+3 otras lineas
+
+4 tambien estas
+
+5 Yeimi Delgado
+
+6 Juan Pineda
+>>>>>>> 647a8887bff6812c4d0de3601f0b92515264641e
 
 <<<<<<< HEAD
 <<<<<<< HEAD
