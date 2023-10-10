@@ -1,1 +1,16 @@
+<<<<<<< HEAD
 Rigoberto
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+Nueva Rama
+=======
+Esto es una rama nueva
+>>>>>>> e657ed247764ef8c89e3b134eda086dafabdc047
+=======
+Esto es una rama nueva
+
+
+MIII RAMA, NO TUYA
+>>>>>>> d0f91c8668c7f4f4e127162c7cf3f106f3eee92a
+>>>>>>> fe1a4fb6ea00976e9e425439f7aa99d437758ae7
